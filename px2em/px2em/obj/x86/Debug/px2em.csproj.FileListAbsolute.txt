@@ -1,0 +1,11 @@
+C:\Users\CloudJay\Documents\ProjectDoc\jay\px2em\px2em\px2em\bin\Debug\px2em.exe.manifest
+C:\Users\CloudJay\Documents\ProjectDoc\jay\px2em\px2em\px2em\bin\Debug\px2em.application
+C:\Users\CloudJay\Documents\ProjectDoc\jay\px2em\px2em\px2em\bin\Debug\px2em.exe
+C:\Users\CloudJay\Documents\ProjectDoc\jay\px2em\px2em\px2em\bin\Debug\px2em.pdb
+C:\Users\CloudJay\Documents\ProjectDoc\jay\px2em\px2em\px2em\obj\x86\Debug\px2em.Form1.resources
+C:\Users\CloudJay\Documents\ProjectDoc\jay\px2em\px2em\px2em\obj\x86\Debug\px2em.Properties.Resources.resources
+C:\Users\CloudJay\Documents\ProjectDoc\jay\px2em\px2em\px2em\obj\x86\Debug\px2em.csproj.GenerateResource.Cache
+C:\Users\CloudJay\Documents\ProjectDoc\jay\px2em\px2em\px2em\obj\x86\Debug\px2em.exe.manifest
+C:\Users\CloudJay\Documents\ProjectDoc\jay\px2em\px2em\px2em\obj\x86\Debug\px2em.application
+C:\Users\CloudJay\Documents\ProjectDoc\jay\px2em\px2em\px2em\obj\x86\Debug\px2em.exe
+C:\Users\CloudJay\Documents\ProjectDoc\jay\px2em\px2em\px2em\obj\x86\Debug\px2em.pdb
