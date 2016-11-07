@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xxx/xxx.ipa</string>
+					<string>https://github.com/ft3590782/MyToys/blob/master/H54B3D802_1107025133.ipa?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>xxx.ipa</string>
+				<string>H54B3D802_1107025133.ipa</string>
 			</dict>
 		</dict>
 	</array>
